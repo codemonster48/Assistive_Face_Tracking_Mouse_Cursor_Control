@@ -7,3 +7,8 @@ Before this you will need to install the dependancies from the virtual enviromen
 Create your new virtual enviroment and run:
 
   pip install -r requirements.txt
+ 
+In order to run the project execute:
+  
+  python3 FaceTracking.py
+  
